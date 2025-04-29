@@ -1,5 +1,5 @@
 {
-  "name": "onesiteproxy",
+  "name": "p2sv1",
   "version": "1.0.0",
   "description": "Simple proxy for one site, easily configurable",
   "main": "index.js",
